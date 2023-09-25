@@ -1,0 +1,25 @@
+.image-link {
+    display: inline-block;
+    cursor: pointer;
+
+    
+  }
+header {
+background-color: black;
+height: 120px;
+width: 1024px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+body {
+background-color:black;
+}
+.container {
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+   
+
+}
